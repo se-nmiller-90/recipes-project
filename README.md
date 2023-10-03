@@ -1,0 +1,1 @@
+this is a project to practice git html and css 
